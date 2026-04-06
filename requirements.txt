@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+langchain
+llama-index
+sentence-transformers
+weaviate-client
+sqlalchemy
+alembic
+pandas
+numpy
+python-dotenv
+psycopg2-binary
